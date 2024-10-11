@@ -2,6 +2,7 @@
 --- 
 ## 操作示範 
 --- 
+[Austronesian Dictionary Demo:](https://youtu.be/2CchK-HNKVs)
 https://github.com/user-attachments/assets/aeb82e23-4f68-4628-99c8-3c0ef7892a57 
 
 --- 
